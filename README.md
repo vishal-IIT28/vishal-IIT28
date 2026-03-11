@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishal Kumar</h1>
-<h3 align="center">Electronics & Communication Engineering Student | Full-Stack Developer | Flutter App Developer</h3>
+<h3 align="center">Electronics & Communication Engineering Student | Full-Stack Developer | Flutter App Developer | DSA </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vishal-IIT28&label=Profile%20views&color=0e75b6&style=flat" />
@@ -41,7 +41,7 @@ MongoDB • MySQL
 
 ### Tools & Cloud
 
-AWS S3 • Git • GitHub • Postman • VS Code
+AWS S3 • ASW EC2 • Git • GitHub • Postman • VS Code • Vivado • Wokwi
 
 ### Core CS
 
@@ -51,7 +51,7 @@ Data Structures • Algorithms • OOP • Operating Systems • Computer Networ
 
 # 🛠️ Projects
 
-### 🏠 GharForU (Accommodation Platform)
+### 🏠 GharForU (Accommodation Platform) (Website + Lite App)
 
 Tech Stack: Node.js • Express • MongoDB • AWS S3 • Google Maps API
 
@@ -133,16 +133,22 @@ https://codeforces.com/profile/vishal_Ignite
 
 ---
 
-# 📫 Connect With Me
+# 📬 Connect With Me
 
-LinkedIn
+**Email**
+[vishal.kr38897@gmail.com](mailto:vishal.kr38897@gmail.com)
+
+**LinkedIn**
 https://www.linkedin.com/in/vishal-kumar-423311320/
 
-Instagram
+**Instagram**
 https://www.instagram.com/me.vishal_kr/
 
-GitHub
+**GitHub**
 https://github.com/vishal-IIT28
+
+
+
 
 ---
 
