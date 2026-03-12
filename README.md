@@ -93,20 +93,6 @@ Tech Stack: Arduino IDE • Embedded Systems
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=vishal-IIT28&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vishal-IIT28&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-IIT28&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
 # 🏆 Achievements
 
 🏅 NMMS Scholarship (2019)
