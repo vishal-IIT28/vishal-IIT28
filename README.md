@@ -51,14 +51,14 @@ Data Structures • Algorithms • OOP • Operating Systems • Computer Networ
 
 # 🛠️ Projects
 
-### 🏠 GharForU (Accommodation Platform) (Website + Lite App)
+### 📱 Flutter Lite App (Website + Mobile Access Platform)
 
-Tech Stack: Node.js • Express • MongoDB • AWS S3 • Google Maps API
+Tech Stack: Flutter • Dart • WebView • Firebase • REST APIs
 
-• Built a **location-based room discovery platform**
-• Supports **25+ listings and 100+ users**
-• Implemented **JWT authentication and role-based access**
-• Used **MongoDB geospatial queries for map search**
+• Developed a Flutter-based Lite application to access and interact with web platforms  
+• Enabled smooth website loading and mobile-friendly navigation experience  
+• Implemented authentication and scalable app architecture  
+• Optimized app performance for fast loading and cross-platform compatibility  
 
 ---
 
